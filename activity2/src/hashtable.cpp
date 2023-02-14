@@ -33,6 +33,7 @@ HashMapTable::HashMapTable(int ts)
 void HashMapTable::insertElement(int key)
 {
     int index = hashFunction(key);
+    // push_back() is used to insert a new element at the end of the list
     table[index].push_back(key);
 }
 // delete function to delete the element from the hash table
@@ -41,6 +42,8 @@ void HashMapTable::deleteElement(int key)
     int index = hashFunction(key);
     // finding the key at the computed index
     list<int>::iterator i;
+    // loop is used to search the linked list stored at table[index] for the key to be deleted
+    // it continues iterating until it either finds the key or reaches the end of the list.
     for (i = table[index].begin(); i != table[index].end(); i++)
     {
         if (*i == key)
@@ -52,7 +55,7 @@ void HashMapTable::deleteElement(int key)
 }
 // display function to showcase the whole hash table
 void HashMapTable::displayHashTable()
-{
+{   // iterate thru the table
     for (int i = 0; i < table_size; i++)
     {
         cout << i;
