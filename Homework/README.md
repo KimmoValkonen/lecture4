@@ -6,6 +6,7 @@
 - [Hashes 2](https://youtube.com/watch?v=XYmI-T-JJso&si=EnSIkaIECMiOmarE)
 - [Hashes 3](https://youtube.com/watch?v=YIoZQwWJIDA&si=EnSIkaIECMiOmarE)
 - [Hashes 4](https://youtube.com/watch?v=jtMwp0FqEcg&si=EnSIkaIECMiOmarE)
+# A: Watched
 
 ## Task 2/3: Reading
 
@@ -14,8 +15,10 @@
 - [Hash Table In C++](https://www.softwaretestinghelp.com/hash-table-cpp-programs/)
 - [Linked List Operations](https://www.softwaretestinghelp.com/linked-list/)
 - [Asymptotic Analysis and Upper Bounds](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/AnalAsymptotic.html)
+# A: Read
 
 ## Task 3/3: Pre-Lecture (Videos)
 
 - [Trees and heaps](https://youtube.com/watch?v=lhTCSGRAlXI&si=EnSIkaIECMiOmarE)
 - [Heaps 1](https://youtube.com/watch?v=BzQGPA_v-vc&si=EnSIkaIECMiOmarE)
+# A: Done
